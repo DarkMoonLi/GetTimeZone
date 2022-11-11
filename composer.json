@@ -1,6 +1,5 @@
 {
-  "name": "minube/geo-timezone",
-  "homepage": "http://minube.com",
+  "name": "osm/gettimezone",
   "description": "PHP library for timezone calculation from a particular location and date.",
   "repositories": [
     {
